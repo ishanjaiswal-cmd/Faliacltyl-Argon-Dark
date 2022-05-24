@@ -9,11 +9,17 @@
 3. edit the settings.json
 4. start the dashbaord
 
-# And Done You Have Installed It 
+
+ And Done You Have Installed It 
 
 
 # If You Want Any Kind Of Help Join Our Discord Server For Help
 # Link: https://discord.gg/dJqrJAEksC
+
+
+
+
+
 
 
 
