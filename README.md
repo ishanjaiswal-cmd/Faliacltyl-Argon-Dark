@@ -23,5 +23,5 @@
 
 
 
-# Note This Theme Is Form Qwakeactyl I Have Made It Work With Faliactyl Also 
+Note: This Theme Is Form Qwakeactyl I Have Made It Work With Faliactyl Also 
 All Credits To Qwakeactyl And Ic Development 
