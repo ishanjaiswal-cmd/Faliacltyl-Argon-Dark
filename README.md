@@ -24,4 +24,4 @@
 
 
 # Note This Theme Is Form Qwakeactyl I Have Made It Work With Faliactyl Also 
-# All Credits To Qwakeactyl And Ic Development 
+All Credits To Qwakeactyl And Ic Development 
