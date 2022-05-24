@@ -16,12 +16,10 @@
 # If You Want Any Kind Of Help Join Our Discord Server For Help
 # Link: https://discord.gg/dJqrJAEksC
 
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 Note: This Theme Is Form Qwakeactyl I Have Made It Work With Faliactyl Also 
 All Credits To Qwakeactyl And Ic Development 
